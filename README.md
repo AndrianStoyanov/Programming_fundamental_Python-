@@ -1,1 +1,1 @@
-# Project SoftUni Courses
+# Basic Bank Account Management System 🐍
