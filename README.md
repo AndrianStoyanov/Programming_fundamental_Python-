@@ -24,3 +24,5 @@
 2. Implement the deposit(), withdraw(), and get_balance() methods for the BankAccount class.
 3. Create a SavingsAccount class that inherits from BankAccount and includes the interest_rate attribute and calculate_interest() method.
 4. Test the functionality of both classes by creating instances of BankAccount and SavingsAccount and performing deposit, withdrawal, and interest calculation operations.
+5. Other functionality
+6. Other
